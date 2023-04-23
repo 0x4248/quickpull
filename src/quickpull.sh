@@ -1,7 +1,7 @@
 # QuickPull
 # Pulls git repositories in the current directory
 # Github://www.github.com/awesomeslewis/quickpull
-# License: GPL-3.0
+# Licence: GPL-3.0
 # By: Lewis Evans
 
 echo "Pull all repositories in the current directory? (y/n)"
