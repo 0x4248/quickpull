@@ -1,6 +1,6 @@
 # QuickPull
 # Pulls git repositories in the current directory
-# Github: https://www.github.com/awesomelewis2007/quickpull
+# Github: https://www.github.com/lewisevans2007/quickpull
 # Licence: GNU General Public License v3.0
 # By: Lewis Evans
 
