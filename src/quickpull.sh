@@ -1,3 +1,4 @@
+#!/bin/bash
 # QuickPull
 # Pulls git repositories in the current directory
 # Github: https://www.github.com/0x4248/quickpull
